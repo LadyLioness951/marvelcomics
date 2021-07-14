@@ -1,0 +1,16 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: blue;
+  }
+  
+  main {
+    flex: 1 0 auto;
+  }
+  
+  footer.page-footer {
+    padding-top: 0;
+    text-align: center;
+  }
